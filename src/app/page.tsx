@@ -7,7 +7,6 @@ export default function Home() {
       repudiandae deleniti, inventore vel neque officia cupiditate quibusdam
       saepe quisquam rerum nesciunt. Nesciunt, eos. Nisi qui, delectus hic animi
       incidunt voluptate?
-      <p>Whats app what happen bro</p>
     </div>
   );
 }
